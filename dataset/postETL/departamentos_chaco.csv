@@ -1,0 +1,95 @@
+;enlace;address;price;expensas;tipo;superficie;cantidad_ambientes;cantidad_dormitorios;cantidad_banos;latitud;longitud;UNNE;UTN;UCES;UCuencaPlata;UCSalta;UGastónDachary;US21
+0;https://www.estudioorcola.com/ficha.php?codigo=19111202&modalidad=1;Avenida Rivadavia 810 - Macrocentro;430000.0;;;50;2;;;nan;nan;;;;;;;
+1;https://www.estudioorcola.com/ficha.php?codigo=219622&modalidad=1;Las Heras 766 - U.N.N.E.;290000.0;;;36;1;;;nan;nan;;;;;;;
+2;https://www.estudioorcola.com/ficha.php?codigo=249450&modalidad=1;Franklin 756 - Zona Unne;230000.0;;;35;1;;;nan;nan;;;;;;;
+3;https://www.estudioorcola.com/ficha.php?codigo=2492645&modalidad=1;Avenida Wilde 12 - Micro Centro;400000.0;;;;2;;;nan;nan;;;;;;;
+4;https://www.estudioorcola.com/ficha.php?codigo=2492603&modalidad=1;San Lorenzo 1180 - Zona Unne;200000.0;;;;1;;;nan;nan;;;;;;;
+5;https://www.estudioorcola.com/ficha.php?codigo=2492620&modalidad=1;Pueyrredon 455 - Micro Centro;380000.0;;;;2;;;nan;nan;;;;;;;
+6;https://www.estudioorcola.com/ficha.php?codigo=2212327&modalidad=1;Avenida Sarmiento 764 - Macrocentro;280000.0;;;40;1;;;nan;nan;;;;;;;
+7;https://www.estudioorcola.com/ficha.php?codigo=1353049&modalidad=1;Frondizi 850 - Macrocentro;270000.0;;;65;2;;;nan;nan;;;;;;;
+8;https://www.estudioorcola.com/ficha.php?codigo=22111936&modalidad=1;Av. Sarmiento 440 - Macrocentro;400000.0;;;86;2;;;nan;nan;;;;;;;
+9;https://www.estudioorcola.com/ficha.php?codigo=249911&modalidad=1;Alem 495 - -;200000.0;;;35;1;;;nan;nan;;;;;;;
+10;https://www.estudioorcola.com/ficha.php?codigo=249459&modalidad=1;Roberto Mora 60 - Macro Centro;230000.0;;;38;1;;;nan;nan;;;;;;;
+11;https://www.estudioorcola.com/ficha.php?codigo=1842446&modalidad=1;Ameghino 935 - UNNE;35000.0;;;98;3;;;nan;nan;;;;;;;
+12;https://www.estudioorcola.com/ficha.php?codigo=242555&modalidad=1;Maipu 763 (CABA) - Galerias Pacifico (ALQUILER TEMPORARIO);;;;38;1;;;nan;nan;;;;;;;
+0;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-2-ambientes--16364770;Arbo Y Blanco 800, Piso 1;320000.0;;Departamento;45;2;1;1;-27,46236;-58,98879;5.0;15.0;16.0;4.0;8.0;8.0;11.0
+1;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-3-ambientes--6559009;Arbo Y Blanco 800, Piso 2°;350000.0;15000.0;Departamento;;3;2;1;-27,46245;-58,98872;5.0;15.0;16.0;4.0;8.0;8.0;11.0
+2;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-5-ambientes--9046760;Av. Alberdi 200, Piso 6;550000.0;130000.0;Departamento;;5;4;2;-27,4529;-58,98876;12.0;9.0;8.0;7.0;5.0;4.0;4.0
+3;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-2-ambientes--16300625;Catamarca 1300, Piso 3;200000.0;30000.0;Departamento;;2;1;1;-28,46958;-65,77954;6766.0;6773.0;6771.0;6765.0;6767.0;6766.0;6759.0
+4;https://www.argenprop.com/departamento-en-alquiler-en-zona-unne-1-ambiente--16361737;Arbo Y Blanco 1300;200000.0;;Departamento;;;;1;-27,46728;-58,99368;10.0;23.0;23.0;11.0;15.0;15.0;16.0
+5;https://www.argenprop.com/departamento-en-alquiler-en-zona-residencial-2-ambientes--8106500;Fray Capelli 100;320000.0;;Departamento;;2;1;1;-27,44072;-59,00003;29.0;23.0;21.0;25.0;22.0;22.0;14.0
+6;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-1-ambiente--9688176;Las Heras 700, Piso 3;240000.0;51300.0;Departamento;;;;1;-27,46324;-58,98612;2.0;15.0;15.0;4.0;8.0;8.0;13.0
+7;https://www.argenprop.com/departamento-en-alquiler-en-centro-4-ambientes--15195540;JUSTO JUAN B. 100;400000.0;;Departamento;90;4;3;2;-27,452848;-58,986137;12.0;7.0;6.0;7.0;3.0;3.0;6.0
+8;https://www.argenprop.com/departamento-en-alquiler-en-centro-1-ambiente--8244066;PERON JUAN DOMINGO 700;150000.0;15000.0;Departamento;23;;;1;-27,446608;-58,994915;21.0;16.0;14.0;17.0;14.0;13.0;6.0
+9;https://www.argenprop.com/departamento-en-alquiler-en-villa-san-juan-1-ambiente--12993799;PARODI 200;95000.0;20000.0;Departamento;20;;;1;-27,46824;-58,971584;13.0;20.0;22.0;16.0;18.0;19.0;27.0
+10;https://www.argenprop.com/departamento-en-alquiler-en-villa-asuncion-1-ambiente--15901269;Zorrilla 600;100000.0;;Departamento;;;;1;-26,58577;-60,95401;2182.0;2180.0;2177.0;2178.0;2177.0;2176.0;2168.0
+11;https://www.argenprop.com/departamento-en-alquiler-en-villa-maria-4-ambientes--8445979;JULIO A. ROCA 1000;370000.0;30000.0;Departamento;75;4;3;1;-27,443851;-58,996346;25.0;18.0;16.0;20.0;17.0;17.0;10.0
+12;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16094517;NECOCHEA 200;260000.0;;Departamento;45;2;1;1;-27,45056;-58,991222;16.0;12.0;10.0;11.0;9.0;8.0;2.0
+13;https://www.argenprop.com/departamento-en-alquiler-en-villa-asuncion-2-ambientes--8302316;HERNANDEZ 1000;160000.0;2500.0;Departamento;40;2;1;1;-27,448154;-58,97071;21.0;8.0;10.0;19.0;15.0;16.0;22.0
+14;https://www.argenprop.com/departamento-en-alquiler-en-microcentro-3-ambientes--16101071;PJE DEL TEATRO 100;320000.0;10000.0;Departamento;60;3;2;;-27,456676;-58,99014;9.0;12.0;11.0;5.0;5.0;5.0;5.0
+15;https://www.argenprop.com/departamento-en-alquiler-en-microcentro-4-ambientes--16193250;LOPEZ Y PLANES 600;390000.0;170000.0;Departamento;95;4;3;2;-27,448084;-58,97801;17.0;3.0;3.0;14.0;10.0;10.0;15.0
+16;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-4-ambientes--16193274;PUEYRREDON 400;450000.0;20000.0;Departamento;70;4;3;2;-27,447077;-58,985634;18.0;7.0;5.0;13.0;9.0;9.0;9.0
+17;https://www.argenprop.com/departamento-en-alquiler-en-zona-unne-4-ambientes--16215932;Av Chaco 1300;350000.0;;Departamento;;4;3;1;-27,47415;-58,98439;11.0;26.0;27.0;16.0;20.0;20.0;25.0
+18;https://www.argenprop.com/departamento-en-alquiler-en-centro-4-ambientes--16255465;Arbo Y Blanco 200, Piso 1;300000.0;;Departamento;;4;3;2;-27,45746;-58,98326;6.0;8.0;9.0;3.0;2.0;2.0;11.0
+19;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--8946686;NECOCHEA 100;210000.0;15000.0;Departamento;30;2;1;1;-27,449608;-58,99009;16.0;11.0;8.0;11.0;9.0;8.0;4.0
+20;https://www.argenprop.com/departamento-en-alquiler-en-resistencia--16296093;Alte G Brown 100, Piso 14;450000.0;100000.0;Departamento;;;3;1;-27,450562;-58,98345;14.0;4.0;2.0;10.0;6.0;5.0;9.0
+21;https://www.argenprop.com/departamento-en-alquiler-en-villa-centenario-2-ambientes--16296262;Jose M Paz 900;160000.0;;Departamento;;2;1;1;-34,73257;-58,4285;8100.0;8113.0;8115.0;8104.0;8108.0;8108.0;8112.0
+22;https://www.argenprop.com/departamento-en-alquiler-en-los-troncos-2-ambientes--16296352;Av. Rissione 600, Piso 2;350000.0;18000.0;Departamento;;2;1;1;-27,44341;-58,96642;27.0;15.0;15.0;25.0;22.0;22.0;28.0
+23;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16300989;Av. Chaco 1500;250000.0;;Departamento;33;2;1;1;-27,4761;-58,98611;14.0;28.0;29.0;18.0;22.0;22.0;26.0
+24;https://www.argenprop.com/departamento-en-alquiler-en-villa-del-oeste-3-ambientes--8478963;1º DE MAYO 1100;150000.0;15000.0;Departamento;60;3;2;1;-27,456268;-59,00619;23.0;27.0;25.0;20.0;21.0;20.0;13.0
+25;https://www.argenprop.com/departamento-en-alquiler-en-villa-alta-1-ambiente--9047880;SICAS 100;95000.0;;Departamento;24;;;;-27,436663;-59,002605;35.0;28.0;25.0;30.0;27.0;27.0;20.0
+26;https://www.argenprop.com/departamento-en-alquiler-en-nueva-resistencia-3-ambientes--16349490;Mz. 69 - Uf. 16 - Barrio Nueva Resistencia 100;220000.0;;Departamento;55;3;2;1;-27,441229;-59,020306;43.0;42.0;39.0;39.0;39.0;38.0;29.0
+27;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-2-ambientes--16349527;ALEM LEANDRO N. 400;250000.0;15000.0;Departamento;40;2;1;1;-27,461796;-58,990616;7.0;16.0;16.0;5.0;9.0;8.0;10.0
+28;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-1-ambiente--10207131;CORRIENTES 700;270000.0;40000.0;Departamento;38;;;1;-27,44282;-58,990257;23.0;14.0;11.0;19.0;15.0;15.0;11.0
+29;https://www.argenprop.com/departamento-en-alquiler-en-villa-centenario-2-ambientes--15481686;SAN MARTIN 1000;;15000.0;Departamento;40;2;1;1;-27,4636;-58,991474;7.0;18.0;18.0;7.0;11.0;10.0;12.0
+30;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-1-ambiente--15771825;Pasaje Wilde 1100;100000.0;7000.0;Departamento;;;;1;-27,43835;-58,98016;28.0;14.0;12.0;24.0;19.0;19.0;20.0
+31;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-4-ambientes--16376382;av piacentini 1300, Piso 1;400000.0;115000.0;Departamento;76;4;2;2;-27,47154;-58,986313;9.0;23.0;24.0;13.0;17.0;17.0;22.0
+32;https://www.argenprop.com/departamento-en-alquiler-en-centro-4-ambientes--13008260;AV PARAGUAY 100;220000.0;48000.0;Departamento;140;4;3;4;-27,44806;-58,981457;17.0;4.0;1.0;13.0;9.0;9.0;12.0
+33;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--13058843;AV.9 DE JULIO 700;200000.0;15000.0;Departamento;45;2;1;1;-26,585766;-60,954006;2182.0;2180.0;2177.0;2178.0;2177.0;2176.0;2168.0
+34;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--14425576;IRIGOYEN 400;80000.0;;Departamento;70;3;2;;-27,453304;-58,982132;11.0;3.0;4.0;7.0;3.0;3.0;10.0
+35;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--6581493;AV LAS HERAS 700, Piso 2;120000.0;50000.0;Departamento;55;2;1;1;-27,462883;-58,985634;2.0;14.0;15.0;3.0;7.0;8.0;13.0
+36;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--14572138;JUAN D.PERON 600;100000.0;35000.0;Departamento;55;2;1;1;-27,44803;-58,99352;19.0;14.0;12.0;14.0;12.0;11.0;5.0
+37;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--14906492;GARCIA MEROU 200;160000.0;40000.0;Departamento;55;3;2;1;-27,45666;-58,996166;14.0;18.0;16.0;10.0;11.0;10.0;5.0
+38;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--11616830;AV.BELGRANO 100;150000.0;50000.0;Departamento;45;2;1;;-27,448004;-58,991825;18.0;13.0;10.0;14.0;11.0;10.0;5.0
+39;https://www.argenprop.com/departamento-en-alquiler-en-centro-5-ambientes--15283675;AV.CASTELLI 400;250000.0;;Departamento;200;5;4;;-27,460798;-58,990322;7.0;15.0;15.0;4.0;8.0;7.0;9.0
+40;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--15288168;JUAN B.JUSTO 100;230000.0;;Departamento;70;2;1;1;-27,452702;-58,98649;12.0;7.0;6.0;7.0;4.0;3.0;6.0
+41;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--15330808;AV.9 DE JULIO 300;200000.0;40000.0;Departamento;75;3;2;2;-26,585766;-60,954006;2182.0;2180.0;2177.0;2178.0;2177.0;2176.0;2168.0
+42;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--15403803;JUAN B.JUSTO 100;200000.0;50000.0;Departamento;65;3;2;;-27,452702;-58,98649;12.0;7.0;6.0;7.0;4.0;3.0;6.0
+43;https://www.argenprop.com/departamento-en-alquiler-en-centro-1-ambiente--15529006;ARBO Y BLANCO 800;100000.0;;Departamento;35;;;;-27,462057;-58,98817;4.0;15.0;15.0;3.0;7.0;7.0;11.0
+44;https://www.argenprop.com/departamento-en-alquiler-en-centro-1-ambiente--15536757;AV.LAS HERAS 700;150000.0;50000.0;Departamento;35;;;;-27,462831;-58,985558;2.0;14.0;15.0;3.0;7.0;7.0;13.0
+45;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--15853411;FORMOSA 400;650000.0;120000.0;Departamento;65;3;2;2;-27,442028;-58,988285;24.0;13.0;11.0;19.0;15.0;15.0;12.0
+46;https://www.argenprop.com/departamento-en-alquiler-en-espana-2-ambientes--6581505;HNOS.PINZON 1500, Piso P.B.;150000.0;;Departamento;45;2;1;;-27,445766;-59,018402;39.0;39.0;37.0;35.0;35.0;34.0;26.0
+47;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--15897072;Av.Avalos 500;280000.0;50000.0;Departamento;75;3;2;1;-27,440973;-58,98908;25.0;15.0;12.0;20.0;17.0;16.0;13.0
+48;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--6581402;CONCEP. DEL BERMEJO 200, Piso 3;320000.0;30000.0;Departamento;54;3;2;1;-27,441618;-58,993656;26.0;17.0;15.0;21.0;18.0;17.0;12.0
+49;https://www.argenprop.com/departamento-en-alquiler-en-villa-del-parque-1-ambiente--16010187;AV MARCONI 100;140000.0;;Departamento;32;;;1;-27,462788;-59,00172;17.0;25.0;25.0;16.0;18.0;18.0;14.0
+50;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-2-ambientes--16042085;RODRIGUEZ PEÑA AV. 200;200000.0;;Departamento;30;2;1;1;-27,74898;-59,012367;318.0;332.0;334.0;322.0;327.0;327.0;330.0
+51;https://www.argenprop.com/departamento-en-alquiler-en-espana-3-ambientes--16071370;AZOPARDO JUAN B. 1800;180000.0;;Departamento;70;3;2;1;-27,441233;-59,016018;40.0;38.0;35.0;36.0;35.0;34.0;26.0
+52;https://www.argenprop.com/departamento-en-alquiler-en-villa-centenario-3-ambientes--16098191;ALEM LEANDRO N. 200;350000.0;18000.0;Departamento;55;3;2;1;-27,4604;-58,991997;8.0;16.0;16.0;6.0;9.0;8.0;8.0
+53;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16098223;AYACUCHO 100;300000.0;18000.0;Departamento;35;2;1;1;-27,448915;-58,981865;16.0;3.0;1.0;12.0;8.0;8.0;11.0
+54;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--16140470;VEDIA 100;350000.0;;Departamento;65;3;2;1;-27,45111;-58,989655;14.0;10.0;8.0;10.0;7.0;6.0;3.0
+55;https://www.argenprop.com/departamento-en-alquiler-en-santa-rita-3-ambientes--16143834;FOTHERINGHAM 2000;380000.0;;Departamento;80;3;2;2;-27,452488;-59,021606;39.0;42.0;40.0;36.0;36.0;36.0;28.0
+56;https://www.argenprop.com/departamento-en-alquiler-en-villa-alta-2-ambientes--16143898;RAUL B DIAZ 300;220000.0;18000.0;Departamento;40;2;1;1;-27,437546;-58,99653;31.0;22.0;20.0;26.0;23.0;23.0;17.0
+57;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--16204446;AV LAS HERAS 500;260000.0;18000.0;Departamento;50;3;2;1;-27,46134;-58,98416;2.0;12.0;13.0;2.0;6.0;6.0;13.0
+58;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16204447;AYACUCHO 100;300000.0;18000.0;Departamento;35;2;1;1;-27,448915;-58,981865;16.0;3.0;1.0;12.0;8.0;8.0;11.0
+59;https://www.argenprop.com/departamento-en-alquiler-en-llaponagat-4-ambientes--16218604;PJE. ARTURO LESTANI 100;350000.0;;Departamento;55;4;3;1;-27,480268;-58,97621;20.0;32.0;34.0;24.0;28.0;28.0;34.0
+60;https://www.argenprop.com/departamento-en-alquiler-en-villa-central-norte-1-ambiente--16220727;OBLIGADO 900;170000.0;15900.0;Departamento;35;;;1;-27,46096;-58,980816;3.0;11.0;12.0;4.0;6.0;7.0;15.0
+61;https://www.argenprop.com/departamento-en-alquiler-en-villa-del-parque-2-ambientes--16139434;NECOCHEA 1200;140000.0;;Departamento;32;2;1;1;-27,458275;-59,00007;17.0;22.0;21.0;14.0;15.0;15.0;9.0
+62;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16244431;AV. RIVADAVIA 700;450000.0;;Departamento;100;2;1;1;-27,441223;-58,98858;25.0;14.0;11.0;20.0;16.0;16.0;13.0
+63;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--9387008;AV. ALVEAR 200;250000.0;;Departamento;48;2;1;1;-27,420132;-59,035812;70.0;65.0;63.0;66.0;64.0;63.0;55.0
+64;https://www.argenprop.com/departamento-en-alquiler-en-villa-central-norte-1-ambiente--16272553;Avenida 9 Julio 1000;150000.0;;Departamento;40;;;1;-27,459541;-58,977287;7.0;9.0;11.0;8.0;8.0;8.0;17.0
+65;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-4-ambientes--16276040;Donovan 700;330000.0;77000.0;Departamento;54;4;2;1;-27,453806;-58,996452;16.0;17.0;15.0;12.0;12.0;11.0;3.0
+66;https://www.argenprop.com/departamento-en-alquiler-en-villa-alta-1-ambiente--16292884;roberto mora 200;200000.0;;Departamento;32;;;1;-27,439072;-58,99601;29.0;21.0;18.0;24.0;21.0;21.0;15.0
+67;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16298133;AV.ALVEAR 200;280000.0;50000.0;Departamento;45;2;1;1;-27,420132;-59,035812;70.0;65.0;63.0;66.0;64.0;63.0;55.0
+68;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--16300177;Avenida Alberdi 200;500000.0;70000.0;Departamento;85;3;2;1;-27,452965;-58,988785;12.0;9.0;8.0;7.0;5.0;4.0;4.0
+69;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-2-ambientes--16306793;2 DE FEBRERO 100;200000.0;20000.0;Departamento;38;2;1;1;-27,461487;-59,002506;18.0;25.0;24.0;16.0;18.0;18.0;13.0
+70;https://www.argenprop.com/departamento-en-alquiler-en-villa-del-carmen-2-ambientes--16312456;NICOLAS R. ACOSTA 200;270000.0;30000.0;Departamento;38;2;1;1;-27,46207;-58,97759;6.0;12.0;14.0;8.0;9.0;10.0;18.0
+71;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--16319376;SARMIENTO AV. 500;350000.0;130000.0;Departamento;50;2;1;1;-27,446606;-58,98171;18.0;5.0;3.0;14.0;10.0;10.0;12.0
+72;https://www.argenprop.com/departamento-en-alquiler-en-centro-2-ambientes--15313516;Cordoba 700;350000.0;50000.0;Departamento;51;2;1;1;-27,451601;-58,973778;16.0;5.0;7.0;14.0;11.0;12.0;18.0
+73;https://www.argenprop.com/departamento-en-alquiler-en-macrocentro-1-ambiente--6581256;Cordoba 700, Piso 3;280000.0;;Departamento;37;;;1;-27,451546;-58,973934;16.0;5.0;7.0;14.0;11.0;11.0;18.0
+74;https://www.argenprop.com/departamento-en-alquiler-en-resistencia-3-ambientes--16334061;Vedia 300;380000.0;100000.0;Departamento;50;3;2;1;-27,452078;-58,99142;14.0;12.0;10.0;10.0;8.0;7.0;1.0
+75;https://www.argenprop.com/departamento-en-alquiler-en-centro-4-ambientes--16347647;AVALOS 300;;220000.0;Departamento;200;4;3;3;-27,442776;-58,990894;24.0;14.0;12.0;19.0;15.0;15.0;11.0
+76;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--16347658;SALTA 300;700000.0;250000.0;Departamento;100;3;2;2;-27,451162;-58,991714;15.0;12.0;10.0;11.0;9.0;8.0;2.0
+77;https://www.argenprop.com/departamento-en-alquiler-en-centro-5-ambientes--15814437;9 DE JULIO 300;450000.0;110000.0;Departamento;115;5;4;3;-27,45421;-58,984207;10.0;6.0;6.0;5.0;1.0;1.0;8.0
+78;https://www.argenprop.com/departamento-en-alquiler-en-llaponagat-3-ambientes--16361963;Av. Chaco 1100;350000.0;;Departamento;62;3;2;1;-27,47257;-58,982048;10.0;24.0;25.0;14.0;18.0;19.0;24.0
+79;https://www.argenprop.com/departamento-en-alquiler-en-villa-centenario-2-ambientes--6582167;ARBO Y BLANCO 1100, Piso P.B.;170000.0;;Departamento;30;2;1;1;-27,464682;-58,99149;7.0;19.0;19.0;8.0;12.0;11.0;13.0
+80;https://www.argenprop.com/departamento-en-alquiler-en-centro-3-ambientes--16373452;AV SARMIENTO 700;;;Departamento;80;3;2;2;-27,445171;-58,980213;20.0;6.0;4.0;16.0;12.0;12.0;15.0
